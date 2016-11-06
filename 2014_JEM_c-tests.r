@@ -1,4 +1,8 @@
-# Reference: Schroeders, U., Robitzsch, A., & Schipolowski, S. (2014). A comparison of different psychometric approaches to modeling testlet structures: An example with c-Tests. Journal of Educational Measurement, 51(4), 400–418.
+# title         Account for testlet structures
+# GitHub        https://github.com/ulrich-schroeders/syntax-publications
+# date          2016-11-06
+# version       1.0.0
+# reference     Schroeders, U., Robitzsch, A., & Schipolowski, S. (2014). A comparison of different psychometric approaches to modeling testlet structures: An example with c-Tests. Journal of Educational Measurement, 51(4), 400–418.
 
 library(TAM)
 
