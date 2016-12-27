@@ -1,7 +1,8 @@
-# Title: Ant Colony Optimization (ACO)
-# Author: Ulrich Schroeders, Wilhelm, O., & Olaru, G.
-# Reference: Schroeders, U., Wilhelm, O., & Olaru, G. (2016). Meta-heuristics in short scale construction: Ant Colony Optimization and Genetic Algorithm. PLOS ONE, 11, e0167110. http://doi.org/10.1371/journal.pone.0167110
-# date: 2016-03-01 (vers. 1.0.0)
+# title         Ant Colony Optimization (ACO)
+# GitHub        https://github.com/ulrich-schroeders/syntax-publications
+# date          2016-03-01
+# version       1.0.0
+# reference     Schroeders, U., Wilhelm, O., & Olaru, G. (2016). Meta-heuristics in short scale construction: Ant Colony Optimization and Genetic Algorithm. PLOS ONE, 11, e0167110. http://doi.org/10.1371/journal.pone.0167110
 # Additional information: This script is a revised and adopted version of the script provided by Leite (2015). [Leite, W. L. (2015). Ant Colony Optmization (ACO) Algorithm [Computer software]. Retrieved January 1, 2016, from http://education.ufl.edu/leite/code/]
 
 # set workingDir, read data, etc.
@@ -289,10 +290,11 @@ antcolony <- function(evaporation, items.ppvt, nitems, iter, ants, summaryfile, 
 short <- antcolony(evaporation, items.ppvt, nitems, iter, ants, summaryfile, summaryfile2) 
 
 
-# Title: Genetic Algorithm (GA)
-# Author: Ulrich Schroeders, Wilhelm, O., & Olaru, G.
-# Reference: Schroeders, U., Wilhelm, O., & Olaru, G. (2016). Meta-heuristics in short scale construction: Ant Colony Optimization and Genetic Algorithm. PLOS ONE, 11, e0167110. http://doi.org/10.1371/journal.pone.0167110
-# date: 2016-03-01 (vers. 1.0.0)
+# title         Genetic Algorithm (GA)
+# GitHub        https://github.com/ulrich-schroeders/syntax-publications
+# date          2016-03-01
+# version       1.0.0
+# reference     Schroeders, U., Wilhelm, O., & Olaru, G. (2016). Meta-heuristics in short scale construction: Ant Colony Optimization and Genetic Algorithm. PLOS ONE, 11, e0167110. http://doi.org/10.1371/journal.pone.0167110
  
 library(GAabbreviate)
 
