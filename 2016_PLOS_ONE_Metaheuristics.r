@@ -3,7 +3,7 @@
 # date          2016-03-01
 # version       1.0.0
 # reference     Schroeders, U., Wilhelm, O., & Olaru, G. (2016). Meta-heuristics in short scale construction: Ant Colony Optimization and Genetic Algorithm. PLOS ONE, 11, e0167110. http://doi.org/10.1371/journal.pone.0167110
-# Additional information: This script is a revised and adopted version of the script provided by Leite (2015). [Leite, W. L. (2015). Ant Colony Optmization (ACO) Algorithm [Computer software]. Retrieved January 1, 2016, from http://education.ufl.edu/leite/code/]
+# Additional information: This script is a revised and adopted version of the script provided by Leite (2007). [Leite, W. L. (2007). Ant Colony Optmization (ACO) Algorithm [Computer software]. Retrieved January 1, 2016, from http://education.ufl.edu/leite/code/]
 
 # set workingDir, read data, etc.
 library(lavaan)
