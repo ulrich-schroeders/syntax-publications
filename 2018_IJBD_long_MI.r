@@ -4,7 +4,7 @@
 #   in childhood. International Journal of Behavioral Development, 42(2), 192–202. 
 #   https://doi.org/10.1177/0165025416687412
 #
-# contact    Ashenafi Kassahun Edossa <ashenafi-kassahun.edossa@uni-bamberg.de>
+# contact    Ashenafi Kassahun Edossa <ashenafiedossa@gmail.com>
 #            Ulrich Schroeders <ulrich.schroeders@gmail.com>
 #
 # title      Longitudinal Measurement Invariance Testing with Categorical Data
