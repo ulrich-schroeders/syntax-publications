@@ -26,7 +26,7 @@
 #  ---------------------------------------------------------------------------
 #    Configural invariance   *          *           *             Fixed at 0
 #    Weak invariance         Fixed      *           *             Fixed at 0
-#    Strong invariance       Fixed      *           *             Fixed at 0
+#    Strong invariance       Fixed      Fixed       *             Fixed at 0/*
 #    Strict invariance       Fixed      Fixed       Fixed         Fixed at 0/*
 # 
 #  ---------------------------------------------------------------------------
